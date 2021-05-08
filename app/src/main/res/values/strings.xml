@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationUI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello First fragment</string>
+    <string name="hello_second_fragment">Hello Second fragment</string>
+    <string name="hello_third_fragment">Hello Third fragment</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+    <string name="restart">Restart</string>
+</resources>
